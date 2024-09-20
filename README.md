@@ -1,12 +1,25 @@
-# proz
-## Exercícios resolvidos
-### instruções do projeto
+# 🏖️ Destinos Turísticos na Europa
 
-Precisamos imprimir um número para cada andar de um hotel de 20 andares. Porém, o dono do hotel é supersticioso e optou por não ter um 13° andar.
+Este projeto apresenta uma página web interativa que exibe **lugares turísticos na Europa**. A página foi desenvolvida usando **HTML5**, **CSS3** (com flexbox) e é totalmente **responsiva** para dispositivos móveis.
 
-- Escreva um código que imprima todos os números exceto o número 13.
-​
-- Escreva mais um código que resolva o mesmo problema, mas dessa vez usando o laço de repetição 'while'.
+## 🎨 Design e Funcionalidades
 
-Como desafio, imprima eles em ordem decrescente (20, 19, 18...)
-# pagina_html
+- **Design moderno e colorido**: A página usa um esquema de cores vibrantes para tornar a experiência visual mais agradável.
+- **Fotos reais**: As imagens dos destinos turísticos são reais e retiradas de bancos de imagens gratuitos.
+- **Animação hover**: Efeito de zoom nos cartões ao passar o mouse por cima, tornando a interação mais envolvente.
+- **Responsividade**: A página se adapta a diferentes tamanhos de tela, sendo perfeita para ser visualizada tanto em computadores quanto em dispositivos móveis.
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3 (Flexbox)**
+- **Fonte Playfair Display**: Aplicada nos títulos para dar um toque elegante.
+- **Imagens de Pixabay**: Utilizadas para representar os destinos turísticos.
+
+## 🌍 Lugares Destacados
+
+- **Torre Eiffel, Paris**
+- **Coliseu, Roma**
+- **Big Ben, Londres**
+- **Canais de Amsterdã, Holanda**
+
